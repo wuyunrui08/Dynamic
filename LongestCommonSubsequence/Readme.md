@@ -29,7 +29,7 @@
 
 > 首先我们引进一个问题:在一个计算机词典中,用户想要找一个单词,``fish``,但是用户不小心把单词拼写错误了,拼出了``hish``......这可怎么办。词典中当然没有``hish``这个单词,但是我们有``fish,finish``等单词,我们是不是应该去找这个单词呢?
 
-![wordcompare](.Photos/wordcompare.png)
+![wordcompare](./Photos/wordcompare.png)
 
 对于这个问题,我们该.....怎么解决呢???
 
